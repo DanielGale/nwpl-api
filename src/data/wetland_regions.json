@@ -1,0 +1,44 @@
+{
+  "regions": [
+    {
+      "name": "Northcentral and Northeast",
+      "abbreviation": "NCNE"
+    },
+    {
+      "name": "Midwest",
+      "abbreviation": "MW"
+    },
+    {
+      "name": "Eastern Mountains and Piedmont",
+      "abbreviation": "EMP"
+    },
+    {
+      "name": "Great Plains",
+      "abbreviation": "GP"
+    },
+    {
+      "name": "Arid West",
+      "abbreviation": "AW"
+    },
+    {
+      "name": "Atlantic and Gulf Coastal Plain",
+      "abbreviation": "AGCP"
+    },
+    {
+      "name": "Western Mountains, Valleys & Coast",
+      "abbreviation": "WMVC"
+    },
+    {
+      "name": "Alaska",
+      "abbreviation": "AK"
+    },
+    {
+      "name": "Hawaii",
+      "abbreviation": "HI"
+    },
+    {
+      "name": "Carribean",
+      "abbreviation": "CB"
+    }
+  ]
+}

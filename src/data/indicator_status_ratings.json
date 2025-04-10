@@ -1,0 +1,39 @@
+{
+  "IndicatorStatusRatings": [
+    {
+      "indicatorStatus": "Obligate",
+      "abbreviation": "OBL",
+      "definition": {
+        "short": "Almost always occur in wetlands."
+      }
+    },
+    {
+      "indicatorStatus": "Facultative Wetland",
+      "abbreviation": "FACW",
+      "definition": {
+        "short": "Usually occur in wetlands, but may occur in non-wetlands."
+      }
+    },
+    {
+      "indicatorStatus": "Facultative",
+      "abbreviation": "FAC",
+      "definition": {
+        "short": "Occur in wetlands and non-wetlands."
+      }
+    },
+    {
+      "indicatorStatus": "Facultative Upland",
+      "abbreviation": "FACU",
+      "definition": {
+        "short": "Usually occur in non-wetlands, but may occur in wetlands."
+      }
+    },
+    {
+      "indicatorStatus": "Upland",
+      "abbreviation": "UPL",
+      "definition": {
+        "short": "Almost never occur in wetlands."
+      }
+    }
+  ]
+}
